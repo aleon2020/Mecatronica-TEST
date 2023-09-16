@@ -1,0 +1,3 @@
+Este es un archivo temporal que se
+va a borrar para aprender a eliminar
+ficheros del repo....
